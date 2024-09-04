@@ -1,0 +1,14 @@
+.flex-1 {
+    flex: 1;
+    background-color: blue;
+}
+
+.flex-2 {
+    flex: 2; 
+    background-color: white;
+}
+
+.flex-3 {
+    flex: 3;
+    background-color: red;
+}
